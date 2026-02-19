@@ -9,7 +9,7 @@
 - 🤖 Working on **AIVerifySnap & ElderCare AI**  
 - 🌱 Currently learning **Flutter + AI Integration**  
 - 💬 Ask me about **Flutter, Python, Firebase**  
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **Khairnarprathamesh19@gmail.com**
 
 ---
 
