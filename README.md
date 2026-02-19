@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Prathamesh Khairnar</h1>
-<h3 align="center">🚀 Flutter Developer | AI Builder | Full Stack Learner</h3>
+<h3 align="center">🚀 Full Stack Web Developer | AI Builder | Full Stack Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;AI+Enthusiast;Open+Source+Learner;Building+Real+World+Apps&center=true&width=500&height=45">
