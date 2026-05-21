@@ -1,7 +1,6 @@
 <!-- ================= HEADER ================= -->
 # 👋 Hey, I'm Prathamesh
 
-![Hello!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 🌟 **Mobile App Developer & Product Designer**  
 ⚡ Building intelligent, human-first apps with **Flutter** & **FastAPI**  
