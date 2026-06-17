@@ -1,93 +1,184 @@
-<!-- ================= HEADER ================= -->
-# 👋 Hey, I'm Prathamesh
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Prathamesh%20Khairnar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Builder%20%7C%20Freelance%20Developer%20%7C%20Vibe%20Coder&descAlignY=58&descAlign=50" width="100%"/>
 
-🌟 **Mobile App Developer & Product Designer**  
-⚡ Building intelligent, human-first apps with **Flutter** & **FastAPI**  
-🛡️ Currently crafting **ElderCare AI** — a safety & health platform for elderly users in India
+<a href="https://github.com/Prathameshkhairnarr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+%F0%9F%A4%96;Freelance+Web+%26+App+Developer+%E2%9A%A1;Vibe+Coding+with+AI+Agents+%F0%9F%9A%80;Currently+exploring+Cloud+%2F+DevOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</a>
 
----
+</div>
 
-## 🧰 Tech Stack
+<br>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,firebase,sqlite,figma,git,androidstudio,vscode" />
-</p>
+<table border="0" width="100%">
+<tr>
+<td width="60%" valign="top">
 
----
+### 🧑‍💻 About Me
 
-## 🚀 Current Project
+I'm a **B.Tech CSE student** at Sandip University, Nashik, building ambitious AI-powered products solo — and freelancing as **@studio.barkat** on the side.
 
-### 🛡️ [ElderCare AI](https://github.com/Prathameshkhairnarr)
-> An AI-powered safety & health companion for elderly users in India
+I treat AI coding agents (Kiro, Cursor, Bolt) as force multipliers — I architect, prompt, and ship; the agents handle the grind. My recent obsession: building an **OS from scratch** with AI-assisted prompting + QEMU.
 
-- 📲 **SMS Scam Detection** — Real-time NLP-based fraud alerts
-- 🆘 **Shake-to-SOS** — Emergency alert with GPS location
-- 💊 **AI Doctor & Medicine DB** — Indian medicines database + prescription reader
-- 🗣️ **Voice NLP** — Hands-free interaction for senior citizens
-- ❤️ **Google Fit Integration** — Health monitoring & insights
+- 🎯 Currently building **MindBridge** & **RailGuard AI** for FAR AWAY 2026 hackathon
+- 🛰️ Exploring **Cloud / DevOps** as a serious career direction
+- 🪐 When not coding — deep into **Vedic Astrology** (yes, really)
+- 📍 Based in Nashik, Maharashtra, India
 
----
+</td>
+<td width="40%" valign="top" align="center">
 
-## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prathameshkhairnarr&theme=tokyonight&hide_border=true&layout=compact" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathameshkhairnarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshkhairnarr&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 📈 Streak
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prathameshkhairnarr&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+**Languages & Core**
+<br>
+<img src="https://skillicons.dev/icons?i=python,dart,js,cpp,html,css"/>
 
-## 🏆 GitHub Trophies
+**Frameworks & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,react,fastapi,nodejs,firebase,threejs"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prathameshkhairnarr&theme=radical&no-frame=true&margin-w=10" />
-</p>
+**AI / ML / Data**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sqlite,opencv"/>
 
----
+**Tools & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,aws,gcp,docker"/>
+
+</div>
+
+<br>
+
+## 🚀 Flagship Projects
+
+<table border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 DESKSHWETA
+**AI Desktop Assistant — 3D VRM Avatar**
+
+Windows desktop assistant with multi-provider AI failover (Groq → Gemini → GitHub Models), Edge-TTS emotional voice, Silero VAD, browser automation via Playwright, and Telegram remote control.
+
+`Python` `VRM/3D` `TTS` `Automation`
+
+![Status](https://img.shields.io/badge/status-Active%20Dev-yellow?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ ElderCare AI
+**SMS Scam Detection for Senior Citizens**
+
+Hybrid DLT whitelist + XGBoost/TF-IDF classifier targeting Truecaller-level fraud detection accuracy, built with Flutter + Python for elderly safety in India.
+
+`Flutter` `Python` `XGBoost` `NLP`
+
+![Status](https://img.shields.io/badge/status-In%20Progress-blue?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 AIVerifySnap
+**Deepfake / Fake Image Detector**
+
+Dual-stream ResNet-50 CNN + ELA (Error Level Analysis) architecture for detecting manipulated images, containerized with Docker and deployed on AWS/GCP.
+
+`ResNet-50` `CNN` `Docker` `AWS`
+
+![Status](https://img.shields.io/badge/status-Deployed-success?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚆 RailGuard AI *(Hackathon)*
+**Autonomous Railway Crisis Detection**
+
+Multi-agent system using LangGraph pipeline + real Indian Railways APIs to autonomously detect and respond to railway crisis scenarios in real time.
+
+`LangGraph` `Multi-Agent` `APIs`
+
+![Status](https://img.shields.io/badge/status-Hackathon%20Build-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📦 **More projects** → [HumorxInda](https://github.com/Prathameshkhairnarr) (AI meme content agent) · [Waterfront Villa](https://github.com/Prathameshkhairnarr) (Three.js + GSAP cinematic site) · [MindBridge](https://github.com/Prathameshkhairnarr) (Mental health multi-agent platform)
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prathameshkhairnarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshkhairnarr&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=Prathameshkhairnarr&theme=tokyonight&hide_border=true" width="65%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathameshkhairnarr&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Prathameshkhairnarr&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
+
+<br>
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prathameshkhairnarr/Prathameshkhairnarr/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Prathameshkhairnarr/Prathameshkhairnarr/output/github-contribution-grid-snake.svg" width="95%"/>
+</div>
 
----
+<br>
 
-## ✨ Dev Quote
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+<a href="mailto:yoursprathamesh8374@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Prathameshkhairnarr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/Prathameshkhairnarr"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
-## 📡 Profile Activity
+<br><br>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Prathameshkhairnarr&style=for-the-badge&color=0e75b6&labelColor=1a1a2e&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Prathameshkhairnarr?style=for-the-badge&color=0e75b6&labelColor=1a1a2e&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/FOCUS-Flutter%20%7C%20AI%20%7C%20FastAPI-0e75b6?style=for-the-badge&labelColor=1a1a2e" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Prathameshkhairnarr&style=for-the-badge&color=0e75b6&labelColor=1a1a2e&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Prathameshkhairnarr?style=for-the-badge&color=0e75b6&labelColor=1a1a2e&label=FOLLOWERS" />
 
----
+</div>
 
-## ☕ Buy Me a Coffee
+<br>
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/Prathameshkhairnarr" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="200" style="border-radius:10px;" />
-  </a>
-</p>
+<div align="center">
 
----
+### 💬 *"Build things that matter — one commit at a time."*
 
-> *"Build things that matter — one commit at a time."* 🚀
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" width="100%"/>
+
+</div>
