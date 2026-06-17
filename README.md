@@ -152,12 +152,6 @@ Multi-agent system using LangGraph pipeline + real Indian Railways APIs to auton
 
 <br>
 
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prathameshkhairnarr&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
 <br>
 
 <div align="center">
