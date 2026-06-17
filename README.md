@@ -141,8 +141,16 @@ Multi-agent system using LangGraph pipeline + real Indian Railways APIs to auton
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prathameshkhairnarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshkhairnarr&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<table border="0">
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Prathameshkhairnarr&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshkhairnarr&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+</td>
+</tr>
+</table>
 
 <img src="https://streak-stats.demolab.com?user=Prathameshkhairnarr&theme=tokyonight&hide_border=true" width="65%"/>
 
