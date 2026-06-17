@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **B.Tech CSE student** at Sandip University, Nashik, building ambitious AI-powered products solo — and freelancing as **@studio.barkat** on the side.
+I'm a **B.Tech CSE student** at Sandip University, Nashik, building ambitious AI-powered products solo — and freelancing as **@PrathamXCodee** on the side.
 
 I treat AI coding agents (Kiro, Cursor, Bolt) as force multipliers — I architect, prompt, and ship; the agents handle the grind. My recent obsession: building an **OS from scratch** with AI-assisted prompting + QEMU.
 
