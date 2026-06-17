@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Prathamesh%20Khairnar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Builder%20%7C%20Freelance%20Developer%20%7C%20Vibe%20Coder&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Prathamesh%20Khairnar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Coder&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://github.com/Prathameshkhairnarr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+%F0%9F%A4%96;Freelance+Web+%26+App+Developer+%E2%9A%A1;Vibe+Coding+with+AI+Agents+%F0%9F%9A%80;Currently+exploring+Cloud+%2F+DevOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%E2%9A%A1;AI+Coder+%F0%9F%A4%96;Freelance+Developer+%40studio.barkat" alt="Typing SVG" />
 </a>
 
 </div>
@@ -151,6 +151,12 @@ Multi-agent system using LangGraph pipeline + real Indian Railways APIs to auton
 </div>
 
 <br>
+
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Prathameshkhairnarr&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
 
 <br>
 
