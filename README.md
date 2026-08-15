@@ -112,10 +112,10 @@ Dual-stream ResNet-50 CNN + ELA (Error Level Analysis) architecture for detectin
 </td>
 <td width="50%" valign="top">
 
-### 🚆 RailGuard AI *(Hackathon)*
-**Autonomous Railway Crisis Detection**
+### 🚆 MindBridge *(Hackathon)*
+**Three Tier MultiAgent based Mental Health System**
 
-Multi-agent system using LangGraph pipeline + real Indian Railways APIs to autonomously detect and respond to railway crisis scenarios in real time.
+
 
 `LangGraph` `Multi-Agent` `APIs`
 
