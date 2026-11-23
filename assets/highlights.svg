@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="AWS hands-on: EC2, IAM, S3, VPC, CloudFront, CloudWatch. Linux and CCNA training completed. Google Cloud Arcade Facilitator. Faraway Hackathon Round 2, Team Lead.">
+<style>.in{animation:i .9s ease-out both}@keyframes i{0%{opacity:0;transform:translateY(12px)}100%{opacity:1;transform:none}}
+.sh{animation:sh 5s linear infinite}@keyframes sh{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+@media (prefers-reduced-motion:reduce){.in,.sh{animation:none}}</style>
+<defs><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="c"><rect width="1200" height="140"/></clipPath></defs>
+<g clip-path="url(#c)"><g class="in" style="animation-delay:0.0s"><rect x="12" y="10" width="285" height="120" rx="14" fill="#161b2e" stroke="#FF9900" stroke-opacity=".5"/>
+<rect x="12" y="10" width="6" height="120" rx="3" fill="#FF9900"/>
+<text x="38" y="52" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="800" fill="#FF9900">AWS</text>
+<text x="38" y="84" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e6edf3">EC2 · IAM · S3 · VPC</text>
+<text x="38" y="108" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9aa5ce">CloudFront · CloudWatch</text></g><g class="in" style="animation-delay:0.25s"><rect x="309" y="10" width="285" height="120" rx="14" fill="#161b2e" stroke="#7aa2f7" stroke-opacity=".5"/>
+<rect x="309" y="10" width="6" height="120" rx="3" fill="#7aa2f7"/>
+<text x="335" y="52" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="800" fill="#7aa2f7">Linux + CCNA</text>
+<text x="335" y="84" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e6edf3">training completed</text>
+<text x="335" y="108" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9aa5ce">SevenMentor</text></g><g class="in" style="animation-delay:0.5s"><rect x="606" y="10" width="285" height="120" rx="14" fill="#161b2e" stroke="#3fb950" stroke-opacity=".5"/>
+<rect x="606" y="10" width="6" height="120" rx="3" fill="#3fb950"/>
+<text x="632" y="52" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="800" fill="#3fb950">Google Cloud</text>
+<text x="632" y="84" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e6edf3">Arcade Facilitator</text>
+<text x="632" y="108" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9aa5ce">Cloud Foundations</text></g><g class="in" style="animation-delay:0.75s"><rect x="903" y="10" width="285" height="120" rx="14" fill="#161b2e" stroke="#a371f7" stroke-opacity=".5"/>
+<rect x="903" y="10" width="6" height="120" rx="3" fill="#a371f7"/>
+<text x="929" y="52" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="800" fill="#a371f7">Hackathon</text>
+<text x="929" y="84" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e6edf3">Faraway · Round 2</text>
+<text x="929" y="108" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9aa5ce">Team Lead, MindBridge</text></g><rect class="sh" y="10" width="300" height="120" fill="url(#s)"/></g></svg>

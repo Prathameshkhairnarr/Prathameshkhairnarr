@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Open to work: fresher Cloud and DevOps roles in Pune, Mumbai, Bengaluru and Hyderabad.">
+<style>.r{transform-box:fill-box;transform-origin:center;animation:r 2s ease-out infinite}@keyframes r{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.6);opacity:0}}
+.sh{animation:sh 4s linear infinite}@keyframes sh{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+@media (prefers-reduced-motion:reduce){.r,.sh{animation:none}}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0f2a1a"/><stop offset="1" stop-color="#101a33"/></linearGradient>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#3fb950" stop-opacity="0"/><stop offset=".5" stop-color="#3fb950" stop-opacity=".14"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="96" rx="14"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="1200" height="96" fill="url(#g)"/><rect class="sh" width="300" height="96" fill="url(#s)"/>
+<circle class="r" cx="44" cy="48" r="9" fill="#3fb950"/><circle cx="44" cy="48" r="9" fill="#3fb950"/>
+<text x="72" y="44" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#e6edf3">Open to work: fresher Cloud / DevOps roles</text>
+<text x="72" y="70" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#9aa5ce">AWS · Linux · Networking · Python  ·  Pune · Mumbai · Bengaluru · Hyderabad · Nashik</text>
+<rect x="1" y="1" width="1198" height="94" rx="13" fill="none" stroke="#3fb950" stroke-opacity=".45"/></g></svg>
