@@ -2,7 +2,7 @@
 
 <img src="./assets/lofi-banner.svg" width="100%" alt="lofi coding banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Hey+there%2C+I'm+Prathamesh+%F0%9F%91%8B;Cloud+Computing+Intern+%40+SevenMentor+%E2%98%81%EF%B8%8F;AWS+%C2%B7+Linux+%C2%B7+Networking+%F0%9F%90%A7;Building+AI+apps+%26+shipping+them+to+the+cloud+%F0%9F%A4%96;Open+to+fresher+Cloud+%2F+DevOps+roles+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Hey+there%2C+I'm+Prathamesh+%F0%9F%91%8B;Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;AWS+%C2%B7+Linux+%C2%B7+Networking+%F0%9F%90%A7;Building+AI+apps+%26+shipping+them+to+the+cloud+%F0%9F%A4%96;Open+to+fresher+Cloud+%2F+DevOps+roles+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <a href="https://www.linkedin.com/in/prathamesh-khairnar-1aa487269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://prathameshkhairnarportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 
 ```yaml
 name:      Prathamesh Khairnar
-role:      Cloud Computing Intern @ SevenMentor
+role:      Aspiring Cloud Engineer (fresher)
 focus:     AWS · Linux · Networking
 also:      building AI products end to end
 education: B.Tech CSE · Sandip University, Nashik
