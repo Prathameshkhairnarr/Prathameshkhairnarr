@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0e75b6&height=180&section=header&text=Prathamesh%20Khairnar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Linux%20%C2%B7%20AI%20Builder&descAlignY=60&descSize=16" width="100%"/>
+<img src="./assets/lofi-banner.svg" width="100%" alt="lofi coding banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=%3E+Cloud+Computing+Intern+%40+SevenMentor;%3E+AWS+%C2%B7+Linux+(RHEL)+%C2%B7+Networking;%3E+Shipping+AI+apps+to+the+cloud;%3E+Open+to+fresher+Cloud+%2F+DevOps+roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Hey+there%2C+I'm+Prathamesh+%F0%9F%91%8B;Cloud+Computing+Intern+%40+SevenMentor+%E2%98%81%EF%B8%8F;AWS+%C2%B7+Linux+%C2%B7+Networking+%F0%9F%90%A7;Building+AI+apps+%26+shipping+them+to+the+cloud+%F0%9F%A4%96;Open+to+fresher+Cloud+%2F+DevOps+roles+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<a href="https://www.linkedin.com/in/prathamesh-khairnar-1aa487269"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7"/></a>
-<a href="https://prathameshkhairnarportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=vercel&logoColor=7aa2f7"/></a>
-<a href="mailto:yoursprathamesh8374@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=gmail&logoColor=7aa2f7"/></a>
-<img src="https://komarev.com/ghpvc/?username=Prathameshkhairnarr&style=flat-square&color=1a1b27&label=views"/>
+<a href="https://www.linkedin.com/in/prathamesh-khairnar-1aa487269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://prathameshkhairnarportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:yoursprathamesh8374@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Prathameshkhairnarr&style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=views"/>
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="middle">
+<td width="58%" valign="middle">
 
-### `~/about-me`
+## 🧑‍💻 About Me
 
 ```yaml
 name:      Prathamesh Khairnar
@@ -25,52 +25,56 @@ role:      Cloud Computing Intern @ SevenMentor
 focus:     AWS · Linux · Networking
 also:      building AI products end to end
 education: B.Tech CSE · Sandip University, Nashik
-location:  Nashik, India
-status:    open to fresher Cloud / DevOps roles
+location:  Nashik, India 📍
+status:    open to fresher Cloud / DevOps roles ✅
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="lofi coding"/>
+<td width="42%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="coding animation"/>
 </td>
 </tr>
 </table>
 
-### `~/stack`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ☁️ Tech Stack
 
 <div align="center">
 
-**Cloud & Infra**<br>
-<img src="https://skillicons.dev/icons?i=aws,linux,bash,gcp,azure,git,github&theme=dark"/>
+<b>Cloud & Infra</b><br><br>
+<img src="https://skillicons.dev/icons?i=aws,linux,bash,gcp,azure,git,github&theme=dark&perline=7"/>
 
 <sub>AWS: EC2 · IAM · S3 · VPC · CloudFront · CloudWatch &nbsp;|&nbsp; Linux (RHEL) &nbsp;|&nbsp; Networking (CCNA training) &nbsp;|&nbsp; Google Cloud Arcade Facilitator</sub>
 
 <br><br>
 
-**AI & Development**<br>
-<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,flutter,firebase,postgres,pytorch&theme=dark"/>
+<b>AI & Development</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,flutter,firebase,postgres,pytorch&theme=dark&perline=9"/>
 
 <sub>Generative AI · Agentic AI · Voice AI · Computer Vision</sub>
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### `~/projects`
+## 🚀 Featured Projects
 
 <table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**[DESKSHWETA](https://github.com/Prathameshkhairnarr/DESKSHWETA)** &nbsp;·&nbsp; desktop voice assistant<br>
-<sub>Hindi/English Windows assistant with a 3D VRM avatar and multi-provider AI failover (Groq → Gemini → GitHub Models).</sub><br>
+### 🤖 [DESKSHWETA](https://github.com/Prathameshkhairnarr/DESKSHWETA)
+Hindi/English desktop voice assistant with a 3D VRM avatar and multi-provider AI failover (Groq → Gemini → GitHub Models).
+
 `Python` `Gemini` `Edge-TTS` `Playwright`
 
 </td>
 <td width="50%" valign="top">
 
-**[ElderCare AI](https://github.com/Prathameshkhairnarr/ElderCareAI)** &nbsp;·&nbsp; digital guardian for seniors<br>
-<sub>Voice-first safety platform with FastAPI backend and SMS scam detection (XGBoost + TF-IDF, 0–100 risk score).</sub><br>
+### 🛡️ [ElderCare AI](https://github.com/Prathameshkhairnarr/ElderCareAI)
+Voice-first safety platform for seniors with a FastAPI backend and SMS scam detection (XGBoost + TF-IDF, 0–100 risk score).
+
 `Flutter` `FastAPI` `Firebase` `PostgreSQL`
 
 </td>
@@ -78,42 +82,40 @@ status:    open to fresher Cloud / DevOps roles
 <tr>
 <td width="50%" valign="top">
 
-**Rakshika** &nbsp;·&nbsp; AI disaster response voice agent<br>
-<sub>Hindi/Hinglish emergency voice agent reachable over phone (LiveKit SIP) with weather, earthquake and hospital APIs.</sub><br>
+### 🚨 Rakshika
+Hindi/Hinglish emergency voice agent reachable over phone (LiveKit SIP) with weather, earthquake and hospital APIs.
+
 `Python` `LiveKit` `Gemini` `Deepgram`
 
 </td>
 <td width="50%" valign="top">
 
-**[MindBridge](https://github.com/Prathameshkhairnarr/mind-bridge)** &nbsp;·&nbsp; multi-agent mental health support<br>
-<sub>Three-tier agent system for detection, support and resource routing. Team Lead, Faraway Hackathon. <a href="https://mind-bridge-smoky.vercel.app">Live demo</a></sub><br>
+### 🧠 [MindBridge](https://github.com/Prathameshkhairnarr/mind-bridge)
+Three-tier multi-agent system for detection, support and resource routing. Team Lead at Faraway Hackathon. [Live demo ↗](https://mind-bridge-smoky.vercel.app)
+
 `React` `FastAPI` `LLMs` `AI Agents`
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### `~/activity`
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prathameshkhairnarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshkhairnarr&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prathameshkhairnarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshkhairnarr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://raw.githubusercontent.com/Prathameshkhairnarr/Prathameshkhairnarr/output/github-contribution-grid-snake.svg" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=Prathameshkhairnarr&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://raw.githubusercontent.com/Prathameshkhairnarr/Prathameshkhairnarr/output/github-contribution-grid-snake.svg" width="95%"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="late night coding"/>
-
-<sub><i>coffee, lofi, and one more deploy.</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1b27&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer&text=coffee%20%C2%B7%20lofi%20%C2%B7%20deploy&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
