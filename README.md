@@ -105,10 +105,10 @@ Three-tier multi-agent system for detection, support and resource routing. Team 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prathameshkhairnarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshkhairnarr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathameshkhairnarr&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Graph" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=Prathameshkhairnarr&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prathameshkhairnarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshkhairnarr&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="165"/>
 
 <img src="https://raw.githubusercontent.com/Prathameshkhairnarr/Prathameshkhairnarr/output/github-contribution-grid-snake.svg" width="95%"/>
 
@@ -116,6 +116,8 @@ Three-tier multi-agent system for detection, support and resource routing. Team 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer&text=coffee%20%C2%B7%20lofi%20%C2%B7%20deploy&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+%E2%9C%A8;Let's+build+something+on+the+cloud+%E2%98%81%EF%B8%8F;coffee+%C2%B7+lofi+%C2%B7+deploy+%F0%9F%8E%A7" alt="footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4a7a,100:7aa2f7&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
