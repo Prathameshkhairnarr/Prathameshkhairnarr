@@ -136,9 +136,9 @@ I'm a **B.Tech CSE student** at Sandip University, Nashik, building my career in
 </table>
 
 <div align="center">
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="34" alt=""/> GitHub activity</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" alt=""/> GitHub activity</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathameshkhairnarr&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Graph" width="100%" alt="activity graph"/>
+<img src="https://streak-stats.demolab.com?user=Prathameshkhairnarr&hide_border=true&background=0D1117&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=FFFFFF&currStreakLabel=3FB950&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" width="90%" alt="GitHub streak"/>
 
 <img src="https://raw.githubusercontent.com/Prathameshkhairnarr/Prathameshkhairnarr/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 </div>
